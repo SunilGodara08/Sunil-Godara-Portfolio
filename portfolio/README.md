@@ -1,2 +1,2 @@
 # Sunil Godara-Portfolio
-Personal portfolio website showcasing my projects, skills, academic background, and certificates.
+Personal portfolio website showcasing my projects, skills, academic background, certificates.
